@@ -17,7 +17,7 @@ export default function Home() {
         </p>
       </section>
 
-      <a class="hundred-days-of-code-ribbon" href="https://github.com/narze/100-days-of-code" data-day="16" target="_blank"></a>
+      <a className="hundred-days-of-code-ribbon" href="https://github.com/narze/100-days-of-code" data-day="16" target="_blank"></a>
     </Layout>
   )
 }
